@@ -38,9 +38,12 @@ Here are some ideas to get you started:
  - 💬 Ask me about **anything**
  
  My stack is as follows:
-* **Frontend**: HTML, CSS, Bootstrap, Vanilla JavaScript
+* **Frontend**: HTML, CSS, Bootstrap,JavaScript,React,MaterialUI
+* **Database**: Firebase
 * **Cloud Computing**: Docker, Kubernetes
 * **AI**: Python
+
+
 
 ## My GitHub Stats &#x1f4c8;
 
