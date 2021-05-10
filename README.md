@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Muhammad Arsalan Manzoor</h1>
 <h3 align="center">A Passionate Front end developer</h3> 
 
-![image](https://github.com/arsalan98m/arsalan98m/blob/master/main.jpg)
+![image](https://github.com/arsalan98m/arsalan98m/blob/master/UpdatedBanner.jpg)
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=arsalan98m" alt="arsalan98m" />
