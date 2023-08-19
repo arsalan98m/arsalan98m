@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Muhammad Arsalan Manzoor</h1>
-<h3 align="center">A Passionate Flutter Developer</h3> 
+<h3 align="center">Bridging Users and Technology with Front-End Magic</h3>
 
 ![image](https://github.com/arsalan98m/arsalan98m/blob/master/UpdatedBanner.png)
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **arsalan90m@gmail.com**
 
 - 💬 Ask me about **Flutter, React, React Native**
- 
+
 - 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-arsalan-manzoor-4088479b/](https://www.linkedin.com/in/muhammad-arsalan-manzoor-4088479b/)
 - ⚡ Fun fact I love to teach & explore about software development!
 
@@ -54,9 +54,6 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>  </p>
 
-
-
-
 ## My GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/arsalan98m/arsalan98m">
@@ -65,6 +62,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/arsalan98m/arsalan98m">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arsalan98m&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arsalan's GitHub Stats" />
 </a>
- 
-
- 
