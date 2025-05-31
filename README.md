@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arsalan Manzoor</h1>
-<h3 align="center">Software Engineer | Building Scalable Frontends & Smart AI Experiences</h3>
+<h3 align="center">Software Engineer | Building Scalable Softwares & Smart AI Experiences</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arsalan98m" alt="Profile views" />
@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 💼 Currently building at **[Plai](https://plai.team)** – shaping the future of hiring with AI
+- 💼 Currently Wroking at **Plai**
 - 🧠 Formerly at **Get Licensed** – improved conversion & performance across core product pages
 - 🔍 Exploring: **Agentic workflows**, **AI-first design**, and **LLM-integrated frontends**
 - 💬 Ask me about:  
