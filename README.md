@@ -2,6 +2,10 @@
 <h3 align="center">Software Engineer | Building Scalable Softwares & Smart AI Experiences</h3>
 
 <p align="center">
+  <img src="https://github.com/arsalan98m/arsalan98m/blob/master/UpdatedBanner.png" alt="banner" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=arsalan98m" alt="Profile views" />
 </p>
 
